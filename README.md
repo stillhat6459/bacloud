@@ -19,8 +19,5 @@ bacloud's "Bare metal servers" series in Lithuania has been online for some time
 | AMD Ryzen 9 7950X3D   | 128GB DDR5 | 2*1.92T NVMe raid1            | 100TB             | €159            | [Buy Now](https://www.bacloud.com/aff.php?aff=552&pid=219) |
 | Intel Xeon E-2286G    | 64GB DDR4 | 2*1T SSD raid1                | 100TB             | €75             | [Buy Now](https://www.bacloud.com/aff.php?aff=552&pid=217) |
 
-### bacloud Reviews
-(Add reviews content here if available)
-
 ### etc.
 For more information and additional details, please visit the [bacloud Official Website](https://www.bacloud.com/aff.php?aff=552).
